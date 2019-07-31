@@ -7,5 +7,5 @@ username : admin@gmail.com
 pass : admin
 
 user :
-username : ady@gmail.com
+username : sas@gmail.com
 pass : 123
